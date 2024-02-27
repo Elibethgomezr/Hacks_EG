@@ -1,4 +1,4 @@
-# Hacks_team-4
+# Hacks_team_4
 https://github.com/Elibethgomezr/git_h_1
 https://github.com/Elibethgomezr/git_h_2
 https://github.com/Elibethgomezr/git_h_3
